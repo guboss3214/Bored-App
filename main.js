@@ -28,5 +28,3 @@ async function handleActivity(){
 button.addEventListener('click', () => {
     handleActivity();
 });
-
-console.log(link_text.href);
